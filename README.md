@@ -27,7 +27,7 @@ This repository contains **15 C programs** that implement key Operating Systems 
 ## How to Compile and Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/os-algorithms.git
+git clone git@github.com:Sudip369369/OS-algorithms.git
 cd os-algorithms
 
 2. Compile any program using GCC:
