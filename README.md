@@ -39,17 +39,17 @@ gcc program9_bankers.c -o bankers
 Replace the filename with any program you want to run.
 
 ## Features
-CPU Scheduling: FCFS, SJF, Round Robin, Priority Scheduling
-Memory Management: FIFO, LRU, Optimal Page Replacement
-Deadlock Avoidance: Banker's Algorithm
-Disk Scheduling: FCFS, SSTF, SCAN
-Process Management: fork, pthreads, pipes
-Step-by-step output for learning purposes
+1. CPU Scheduling: FCFS, SJF, Round Robin, Priority Scheduling
+2. Memory Management: FIFO, LRU, Optimal Page Replacement
+3. Deadlock Avoidance: Banker's Algorithm
+4. Disk Scheduling: FCFS, SSTF, SCAN
+5. Process Management: fork, pthreads, pipes
+6. Step-by-step output for learning purposes
 
-##Contributing
-Add more OS algorithms
-Improve code readability
-Optimize existing implementations
+## Contributing
+1. Add more OS algorithms
+2. Improve code readability
+3. Optimize existing implementations
 
-##License
+## License
 MIT License. Use freely for educational purposes.
