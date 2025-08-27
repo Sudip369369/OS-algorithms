@@ -27,15 +27,19 @@ This repository contains **15 C programs** that implement key Operating Systems 
 ## How to Compile and Run
 
 1. Clone the repository:
+ ```
 git clone git@github.com:Sudip369369/OS-algorithms.git
 cd os-algorithms
-
-2. Compile any program using GCC:
+```
+3. Compile any program using GCC:
+```
 gcc program9_bankers.c -o bankers
+```
 
-
-3. Run the executable:
+4. Run the executable:
+```
 ./bankers
+```
 Replace the filename with any program you want to run.
 
 ## Features
